@@ -1,19 +1,49 @@
 
+.body1{
+  background-color: turquoise
+}
+
+.pan1{
+  margin: 5%;
+  padding: 5%;
+  background-color: rgba(87, 255, 123, 0.801);
+  text-align: center;
+  border-radius: 3%;
+}
+
+.bottom1{
+  background-color: tomato;
+}
+
+.jumbotron{
+  padding: 5%;
+  margin-top: 5%;
+  background-color: rgb(246, 114, 91);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 13%;
+}
+
+.color{
+  background-color: rgb(255, 255, 112);
+  border-radius: 8%;
+}
+
+.well{
+  background-color: rgba(153, 205, 50, 0);
+  text-align: center;
+  border-radius: 8%;
+}
+
+.bottom1{
+  background-color: rgb(255, 255, 112);
+  text-align: center;
+  border-radius: 8%;
+}
+
 body{
-  background-color: rgb(#073605);
-
+  background-color: turquoise;
 }
 
-.row{
-  background-color: lawngreen;
-}
-
-.mid-left{
-  background-color: rgb(#145b11);
-
-}
-
-.mid-right{
-background-color: #145b11;
-}
 
