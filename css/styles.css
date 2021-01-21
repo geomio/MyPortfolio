@@ -85,4 +85,45 @@ a:link, a:visited {
 }
 
 
+#gallerytext{
+  text-align: center;
+  color: aliceblue;
+  padding: 5%;
+  margin: 5%;
+  background-color: rgba(255, 109, 109, 0.842);
+}
+
+#abouttext{
+  text-align: center;
+  color: aliceblue;
+  padding: 5%;
+  margin: 5%;
+  background-color: rgba(255, 109, 109, 0.842);
+}
+
+#aboutlist{
+  text-align: center;
+  color: aliceblue;
+  padding: 5%;
+  margin: 5%;
+  background-color: rgba(255, 109, 109, 0.842);
+}
+
+#gitwell{
+  text-align: center;
+  color: aliceblue;
+  padding: 5%;
+  margin: 5%;
+  background-color: rgba(255, 109, 109, 0.842);
+}
+
+#gitpanel{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  padding: 5%;
+  margin: 5%;
+  background-color: rgba(241, 255, 52, 0.842);
+}
+
+
 
