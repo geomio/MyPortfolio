@@ -8,7 +8,7 @@
   padding: 5%;
   background-color: rgba(87, 255, 123, 0.801);
   text-align: center;
-  border-radius: 3%;
+  border-radius: 15px;
 }
 
 .bottom1{
@@ -22,25 +22,55 @@
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   text-align: center;
-  border-radius: 20%;
+  border-radius: 15px;
 }
 
-.color{
+.welcometext{
+  font-size: large;
+  font-size: 200%;
+  font-weight: bolder;
+}
+
+#potionimg{
+  border-radius: 8px;
+}
+
+#welcometext1{
+  padding: 3%;
+  margin-left: 30%;
+  margin-right: 30%;
+  border: 3%;
+  background-color: rgb(255, 132, 60);
+  border-radius: 8px;
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bolder;
+  color: #7c0276;
+  text-decoration: underline;
+}
+
+
+.topbar{
   background-color: rgb(255, 255, 112);
-  border-radius: 8%;
+  border-radius: 10px;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding: 1%;
 }
 
 .homepage{
   background-color: rgb(204, 255, 101);
-  text-align: center;
   font-size: large;
-  border-radius: 8%;
+  border-radius: 15px;
 }
 
 .bottom1{
   background-color: rgb(255, 255, 112);
   text-align: center;
-  border-radius: 8%;
+  border-radius: 10px;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  outline: none;
 }
 
 body{
@@ -48,14 +78,17 @@ body{
 }
 
 a:link, a:visited {
-  background-color: #ff8783;
-  color: rgb(0, 0, 0);
-  padding: 15px 25px;
-  font-size: medium;
+  background-color: #7c0276;
+  color: rgb(255, 255, 255);
+  padding: 2%;
+  margin: 2%;
+  font-size: small;
+  text-decoration: underline;
   font-weight: bolder;
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  border-radius: 15px;
 }
 
 
@@ -123,6 +156,10 @@ a:link, a:visited {
   padding: 5%;
   margin: 5%;
   background-color: rgba(241, 255, 52, 0.842);
+}
+
+.gitlink{
+  list-style-type: none;
 }
 
 
