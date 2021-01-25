@@ -9,6 +9,8 @@
   background-color: rgba(87, 255, 123, 0.801);
   text-align: center;
   border-radius: 15px;
+  font-size: large;
+  font-weight: bold;
 }
 
 .bottom1{
@@ -43,10 +45,15 @@
   background-color: rgb(255, 132, 60);
   border-radius: 8px;
   text-align: center;
-  font-size: xx-large;
+  font-size: large;
   font-weight: bolder;
   color: #7c0276;
   text-decoration: underline;
+}
+#frontheading{
+  font-size: 300%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
 }
 
 
@@ -60,7 +67,6 @@
 
 .homepage{
   background-color: rgb(204, 255, 101);
-  font-size: large;
   border-radius: 15px;
 }
 
@@ -92,7 +98,7 @@ a:link, a:visited {
 }
 
 
-.galr {
+.pics {
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
@@ -115,6 +121,24 @@ a:link, a:visited {
   padding: 5%;
   margin: 2%;
   border: 10%;
+}
+
+#galleryhead{
+  font-size: 800%;
+  font-weight: bold;
+  color: black;
+}
+
+#galleryhead2{
+  font-size: 500%;
+}
+
+#colorgallpg{
+  font-size: 200%;
+}
+
+#strongpicgall{
+  font-size: 120%;
 }
 
 
@@ -158,8 +182,17 @@ a:link, a:visited {
   background-color: rgba(241, 255, 52, 0.842);
 }
 
+.panel-title{
+  font-size: 300%;
+  font-weight: bolder;
+}
+
 .gitlink{
   list-style-type: none;
+}
+
+#warninglabel{
+  color: red;
 }
 
 
