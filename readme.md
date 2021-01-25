@@ -23,7 +23,7 @@ Project 1.1.5.1
 
 1. have internet connection
 2. have browser such as google
-3. open link via git hub
+3. open link via git hub here/ https://geomio.github.io/MyPortfolio
 
 must have computer with internet connection.
 
